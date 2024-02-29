@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/AprendiendoGodot.icon.png-9b886176f47558ee86b4a6a7bbf5091c.stex"
+path="res://.import/AprendiendoGodot.icon.png-ce317fdaade2fc7f91d9649a6ed1c41f.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://AprendiendoGodot.icon.png"
-dest_files=[ "res://.import/AprendiendoGodot.icon.png-9b886176f47558ee86b4a6a7bbf5091c.stex" ]
+source_file="res://export/AprendiendoGodot.icon.png"
+dest_files=[ "res://.import/AprendiendoGodot.icon.png-ce317fdaade2fc7f91d9649a6ed1c41f.stex" ]
 
 [params]
 

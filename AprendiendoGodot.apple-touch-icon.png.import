@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/AprendiendoGodot.apple-touch-icon.png-44c3aa7dfe248568041a8f6731cd5a39.stex"
+path="res://.import/AprendiendoGodot.apple-touch-icon.png-c876b653d4d9932cde068eb6f7847016.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://AprendiendoGodot.apple-touch-icon.png"
-dest_files=[ "res://.import/AprendiendoGodot.apple-touch-icon.png-44c3aa7dfe248568041a8f6731cd5a39.stex" ]
+source_file="res://export/AprendiendoGodot.apple-touch-icon.png"
+dest_files=[ "res://.import/AprendiendoGodot.apple-touch-icon.png-c876b653d4d9932cde068eb6f7847016.stex" ]
 
 [params]
 
